@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(level = logging.INFO,format = '[%(asctime)s]: %%(message)s:')
 
 
-project_name = "Coccidiosis-Disease-Classification-for-Chickens"
+project_name = "Coccidiosis"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
